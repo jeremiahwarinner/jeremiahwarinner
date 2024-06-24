@@ -1,4 +1,4 @@
 ## Hi, I'm Jeremiah Warinner 
-I've been enjoying development since I first started learning how to code with a simple pong project written in Visual Basic back in 2012. Since then I have made great strides in my computer science education at The University of Houston Clear Lake. Most recently I have been enjoying learning JavaScript and the flexibility that it provides with a simple and easy to learn syntax. I am currently on the look out for a role in mobile development, ideally writing Kotlin or JavaScript. I'd especially love to work at a startup with a tightly knit team where I can make a difference. If you're hiring, lets chat!
+Hi there! I'm a Computer Science major who loves diving into programming and data analysis. I get a kick out of turning complex data into useful insights. When I'm not glued to my computer, you'll probably find me out skateboarding or exploring the latest tech trends. Always excited to connect and share ideas! Let's innovate together!
 
 
